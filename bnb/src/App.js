@@ -58,7 +58,7 @@ function App() {
         <div className={css.subtitulo}>
           <h4>
             <span className={css.pregunta}>
-              ¿Buscas equipos Apple o Samsung a precios accesibles?{" "}
+              ¿Buscas productos Apple o Samsung a precios accesibles?{" "}
             </span>{" "}
             <br></br> BNB te trae el dispositivo que quieras, al mejor precio.
           </h4>
